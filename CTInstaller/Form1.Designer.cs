@@ -96,7 +96,7 @@
             this.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "ctjs installer";
             this.ResumeLayout(false);
             this.PerformLayout();
 
