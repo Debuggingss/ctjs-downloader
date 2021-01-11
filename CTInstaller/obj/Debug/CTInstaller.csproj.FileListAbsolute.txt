@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CTInstaller\CTInstaller\obj\Debug\CTInstaller.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CTInstaller\CTInstaller\obj\Debug\CTInstaller.Form1.resources
+C:\Users\User\source\repos\CTInstaller\CTInstaller\obj\Debug\CTInstaller.Properties.Resources.resources
+C:\Users\User\source\repos\CTInstaller\CTInstaller\obj\Debug\CTInstaller.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CTInstaller\CTInstaller\obj\Debug\CTInstaller.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CTInstaller\CTInstaller\bin\Debug\CTInstaller.exe.config
+C:\Users\User\source\repos\CTInstaller\CTInstaller\bin\Debug\CTInstaller.exe
+C:\Users\User\source\repos\CTInstaller\CTInstaller\bin\Debug\CTInstaller.pdb
+C:\Users\User\source\repos\CTInstaller\CTInstaller\obj\Debug\CTInstaller.exe
+C:\Users\User\source\repos\CTInstaller\CTInstaller\obj\Debug\CTInstaller.pdb
