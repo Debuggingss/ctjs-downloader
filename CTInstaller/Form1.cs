@@ -36,8 +36,8 @@ namespace CTInstaller
             {
                 wc.DownloadProgressChanged += wc_DownloadProgressChanged;
                 wc.DownloadFileAsync(
-                    new Uri("https://github.com/ChatTriggers/ChatTriggers/releases/download/1.3.0/ctjs-1.3.0-1.8.9.jar"),
-                    appdata + "\\.minecraft\\mods\\ctjs-1.3.0-1.8.9.jar"
+                    new Uri("https://github.com/ChatTriggers/ChatTriggers/releases/download/1.3.1/ctjs-1.3.1-1.8.9.jar"),
+                    appdata + "\\.minecraft\\mods\\ctjs-1.3.1-1.8.9.jar"
                 );
                 wc.DownloadFileCompleted += wc_DownloadFinished2;
             }
